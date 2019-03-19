@@ -4,9 +4,9 @@ At the moment of downloading the folder enter the terminal located in it and exe
 to download the modules
 
 # Installations
-Configuracion de node : npm init - -yes
+Configuracion de node : npm init --yes
 Instalacion del typescript: npm install -g typescript
-Configuracion de typescript: tsc - -init
+Configuracion de typescript: tsc --init
 
 # Help facilities
 -npm i express mongoose morgan helmet cors compression
